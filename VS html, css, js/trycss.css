@@ -1,0 +1,47 @@
+.body_change {
+    display: table;
+    /* down */
+    margin: 0 auto;
+    /* with up - center position */
+    /* background-image: url(https://mobimg.b-cdn.net/v3/fetch/53/5334a9b02d844892ec90479c5824674f.jpeg); */
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.intro {
+    background-color: bisque;
+}
+
+.head_cl {
+    display: table;
+    margin: 0 auto;
+    position: sticky;
+    top: 0;
+}
+
+.heading {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.skill_name {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.skill_prog {
+    font-style: italic;
+}
+
+.footlinks {
+    position: sticky;
+    bottom: 0;
+    left: 50%;
+}
+
+.paragraph {
+    color: rgb(122, 122, 179);
+    background-color: black;
+}
